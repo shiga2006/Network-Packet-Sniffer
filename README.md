@@ -253,8 +253,7 @@ This tool is designed for **educational purposes** and **legitimate network diag
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
-[Report Bug](https://github.com/yourusername/network-packet-sniffer/issues) •
-[Request Feature](https://github.com/yourusername/network-packet-sniffer/issues) •
-[Documentation](https://github.com/yourusername/network-packet-sniffer/wiki)
+[Report Bug](https://github.com/shiga2006/Network-Packet-Sniffer/issues) •
+[Request Feature](https://github.com/shiga2006/Network-Packet-Sniffer/issues) •
 
 </div>
